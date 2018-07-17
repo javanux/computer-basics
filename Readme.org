@@ -1,6 +1,7 @@
-#+TITLE: computer basics and information technology, Computer OS, windows OS
+#+TITLE: Collection of computer basics and information technology Documents
 #+DATE: Tue Jul 17 22:09:52 +0545 2018
 
 * Computer Basics 
+  file:computer-basics.pdf
 
 
